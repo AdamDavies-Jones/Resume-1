@@ -1,0 +1,22 @@
+body {background-color:rgb(245, 231, 211)}
+body {font-family: Arial, sans-serif}
+h1, h2, footer {text-align:center}
+#summarybox{width:50%; margin-left:25%}
+#skillsbox{width:50%; margin-left:25%}
+#employment{width:50%; margin-left:25%}
+#education{width:50%; margin-left:25%}
+#hobbies{width:50%; margin-left:25%}
+#contact{width:50%; margin-left:25%}
+h1, h2{font-family: 'Handlee', cursive;}
+#photo{border:10px solid rgb(209, 202, 202)}
+#buttongroup{text-align:center;}
+
+#hobbiesbutton{background-color:rgb(192, 235, 220);}
+#hobbiesbutton:hover{box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19); 
+    background-color:white; transition-duration: 1s;}
+#contactbutton{background-color:rgb(124, 241, 124);}
+#contactbutton:hover{box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color:white; transition-duration: 1s;}
+
+#ditto{width:300px}
+#hestu{width:300px}
